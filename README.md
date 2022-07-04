@@ -1,2 +1,2 @@
 # Hyperblog
-Unblog increible para GitHub
+Un blog increible para GitHub
